@@ -1,0 +1,2 @@
+module DocumentalHelper
+end

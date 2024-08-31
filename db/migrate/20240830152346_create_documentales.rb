@@ -1,6 +1,6 @@
-class CreateDocumentals < ActiveRecord::Migration[7.1]
+class CreateDocumentales < ActiveRecord::Migration[7.1]
   def change
-    create_table :documentals do |t|
+    create_table :documentales do |t|
       t.string :name
       t.string :synopsis
       t.string :director
